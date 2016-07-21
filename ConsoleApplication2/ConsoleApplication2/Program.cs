@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Ceci a ete ajoute a partir de GitHub.");
+            Console.WriteLine("Another Hello World");
         }
     }
 }
